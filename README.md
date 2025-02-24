@@ -1,5 +1,3 @@
-Below is a sample README.md file you can use for your Python backend project:
-
 ---
 
 # Body Measurement AI Model
@@ -112,5 +110,3 @@ Special thanks to all mentors and organizers for the opportunity to innovate and
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to adjust the sections as needed to match your project specifics. This README should provide a clear and concise overview of your backend, its functionality, and instructions for both local usage and deployment on Hugging Face.
