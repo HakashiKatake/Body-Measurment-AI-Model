@@ -1,3 +1,5 @@
+
+
 ---
 
 # Body Measurement AI Model
@@ -6,6 +8,9 @@ This repository contains the Python backend for a Body Measurement AI Model buil
 
 > **Note:**  
 > This project was created for the hackathon project **"HackX"** by RohanVashist, Saurabh Yadav, Sahil Shah, and Ayush Jha.
+
+![image](https://github.com/user-attachments/assets/25bae498-8b23-4ae3-ae34-ebb339c08c14)
+![image](https://github.com/user-attachments/assets/28644177-3d79-47ce-83a0-8669e0a35b43)
 
 ---
 
